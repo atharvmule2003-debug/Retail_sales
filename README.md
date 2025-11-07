@@ -20,6 +20,7 @@ Highlight the highest-selling products using a Top N filter to focus on key reve
 
 Sales Trend Over Time (Line Chart)
 Track total sales and profit trends monthly or quarterly to analyze growth patterns and seasonality.
+
 **Multivariate Analysis (3 or more variables together)**
 
 
